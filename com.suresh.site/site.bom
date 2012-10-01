@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<md:billOfMaterials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:md="http://www.eclipse.org/buckminster/MetaData-1.0" topNodeId="ef23eaa1-5700-3a0a-bff6-2c7bd2b3d4da" componentQueryId="0e4aa53e-7716-3dcf-9442-53a5602e3a34" timestamp="2012-10-01T21:45:59.358+0000">
+<md:billOfMaterials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:md="http://www.eclipse.org/buckminster/MetaData-1.0" topNodeId="ef23eaa1-5700-3a0a-bff6-2c7bd2b3d4da" componentQueryId="0e4aa53e-7716-3dcf-9442-53a5602e3a34" timestamp="2012-10-01T22:22:57.319+0000">
     <md:idwrapper id="0e4aa53e-7716-3dcf-9442-53a5602e3a34">
         <md:componentQuery xmlns:cq="http://www.eclipse.org/buckminster/CQuery-1.0" resourceMap="file:/C:/git-build-new/bmsuresh1/com.suresh.site/site.rmap">
             <cq:rootRequest name="com.suresh.site" componentType="eclipse.feature"/>
